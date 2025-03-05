@@ -1,8 +1,8 @@
 ### Connect Redis for golang          
 
 ---
-- [ ] Project Package 경로
-- [ ] Redis Connection 분리
-- [ ] Redis Client 분리
-- [ ] Redis Operation (Set, Get)
-- [ ] model 구조체
+- [x] Project Package 경로
+- [x] Redis Connection 분리
+- [x] Redis Client 분리
+- [x] Redis Operation (Set, Get)
+- [x] model 구조체
